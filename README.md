@@ -11,7 +11,10 @@ El análisis compara perfiles de expresión génica entre pacientes con ictus is
 TFM-Bioinformatica/
 │
 ├── modelos_predictivos.R     # Script principal con todo el pipeline de análisis
+└── TFM_E.Nombela_DEF         # Documento escrito y redacción
 └── README.md                 # Documentación del proyecto
+└──plantilla_defensa_ENombela # PPTx de la defensa
+
 ```
 ## Pipeline de análisis
 
